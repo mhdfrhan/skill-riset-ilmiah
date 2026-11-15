@@ -1,6 +1,6 @@
 ---
 name: sitasi-dan-integritas-akademik
-description: Membantu mengutip dan memparafrase sumber secara etis, menjaga konsistensi daftar pustaka, mencegah plagiarisme, dan mengungkap penggunaan AI secara transparan.
+description: Membantu mengutip dan memparafrase sumber secara etis, menjaga konsistensi daftar pustaka, dan mengungkap penggunaan AI secara transparan. Gunakan saat mengolah kutipan atau memeriksa integritas pustaka.
 ---
 
 # 07 — Sitasi dan Integritas Akademik

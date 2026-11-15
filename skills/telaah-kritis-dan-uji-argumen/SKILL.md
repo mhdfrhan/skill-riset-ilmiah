@@ -1,6 +1,6 @@
 ---
 name: telaah-kritis-dan-uji-argumen
-description: Membantu menguji ketahanan argumen, mengaudit kelemahan metodologis atau logika layaknya penelaah sejawat (peer reviewer), dan melatih pertahanan karya ilmiah.
+description: Membantu menguji ketahanan argumen, mengaudit kelemahan logika atau metode layaknya penelaah sejawat, dan melatih pertahanan karya ilmiah. Gunakan saat meninjau naskah akhir atau menyiapkan ujian sidang.
 ---
 
 # 08 — Telaah Kritis dan Uji Argumen

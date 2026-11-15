@@ -1,6 +1,6 @@
 ---
 name: perumusan-masalah-dan-celah
-description: Membantu menemukan masalah penelitian yang nyata, memetakan celah pengetahuan, menyusun pertanyaan penelitian, dan menguji kelayakan ide secara lintas disiplin.
+description: Membantu menemukan masalah penelitian yang nyata, memetakan celah pengetahuan, dan merumuskan pertanyaan penelitian lintas disiplin. Gunakan saat memulai riset atau menguji kelayakan ide.
 ---
 
 # 01 — Perumusan Masalah dan Celah Penelitian

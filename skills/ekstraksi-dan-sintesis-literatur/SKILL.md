@@ -1,6 +1,6 @@
 ---
 name: ekstraksi-dan-sintesis-literatur
-description: Membantu membaca sumber secara kritis, mengekstrak informasi penting ke dalam matriks, dan menyintesis banyak sumber menjadi argumen ilmiah yang utuh.
+description: Membantu membaca sumber secara kritis, mengekstrak informasi penting ke matriks, dan menyintesis banyak sumber menjadi argumen utuh. Gunakan saat menyusun tinjauan pustaka atau membandingkan literatur.
 ---
 
 # 03 — Ekstraksi dan Sintesis Literatur

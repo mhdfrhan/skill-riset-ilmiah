@@ -1,6 +1,6 @@
 ---
 name: analisis-dan-penyajian-temuan
-description: Membantu mengolah data atau bukti penelitian secara jujur, memaknai temuan sesuai batas bukti, dan menyajikan tabel atau grafik tanpa menyesatkan pembaca.
+description: Membantu mengolah bukti penelitian secara jujur, memaknai temuan sesuai batas bukti, dan menyajikan tabel atau grafik yang akurat. Gunakan saat menganalisis data, menafsirkan hasil, atau membuat visualisasi.
 ---
 
 # 05 — Analisis dan Penyajian Temuan

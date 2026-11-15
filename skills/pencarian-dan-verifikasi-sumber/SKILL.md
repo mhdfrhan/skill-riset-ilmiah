@@ -1,6 +1,6 @@
 ---
 name: pencarian-dan-verifikasi-sumber
-description: Membantu mencari literatur secara sistematis di berbagai basis data dan memverifikasi keaslian identitas serta isi sumber sebelum dikutip.
+description: Membantu mencari literatur secara sistematis di berbagai basis data dan memverifikasi keaslian identitas serta isi sumber. Gunakan saat mencari rujukan atau memeriksa keaslian sitasi sebelum dikutip.
 ---
 
 # 02 — Pencarian dan Verifikasi Sumber

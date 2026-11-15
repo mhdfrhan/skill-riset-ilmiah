@@ -1,6 +1,6 @@
 ---
 name: desain-metodologi
-description: Membantu memilih dan merancang metode penelitian yang selaras dengan pertanyaan penelitian, dapat ditelusuri ulang, sahih, dan memenuhi prinsip etika.
+description: Membantu memilih dan merancang metode penelitian yang selaras dengan pertanyaan riset, dapat ditelusuri ulang, sahih, dan etis. Gunakan saat menyusun rancangan atau bagian metode penelitian.
 ---
 
 # 04 — Desain Metodologi

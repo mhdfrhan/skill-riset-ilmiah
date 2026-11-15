@@ -1,6 +1,6 @@
 ---
 name: penulisan-dan-gaya-ilmiah
-description: Membantu menyusun bagian-bagian karya ilmiah dengan alur yang selaras serta gaya bahasa yang jernih, spesifik, alami, dan tetap mempertahankan suara penulis.
+description: Membantu menyusun bagian karya ilmiah dengan alur selaras serta gaya bahasa jernih, spesifik, alami, dan menjaga suara penulis. Gunakan saat menulis draf atau menyunting gaya bahasa naskah akademik.
 ---
 
 # 06 — Penulisan dan Gaya Ilmiah
