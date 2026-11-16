@@ -39,3 +39,5 @@ description: Membantu menyusun bagian karya ilmiah dengan alur selaras serta gay
 - Memalsukan kepastian argumen atau memanipulasi gaya bahasa untuk menyamarkan kelemahan bukti atau keterbatasan riset.
 - Melakukan plagiarisme dalam penyusunan teks, atau menulis seluruh karya ilmiah utuh tanpa bahan penulis untuk diklaim sebagai karya pengguna.
 - Menyimpulkan hal yang tidak ada buktinya di bagian hasil atau menambahkan klaim baru di bagian kesimpulan.
+
+*(Catatan keterkaitan: untuk adaptasi struktur artikel jurnal/IMRaD dan matriks revisi penelaah gunakan skill `struktur-dan-adaptasi-artikel-ilmiah`; untuk pemformatan tata letak dan field otomatis `.docx` gunakan skill `pemformatan-naskah-word-akademik`.)*

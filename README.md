@@ -24,6 +24,11 @@ Untuk mahasiswa (S1, S2, S3), dosen, dan peneliti dari jurusan apa pun (sains, k
 | 06 | [penulisan-dan-gaya-ilmiah](skills/penulisan-dan-gaya-ilmiah/SKILL.md) | Menulis tiap bagian naskah dengan alur logis dan gaya bahasa alami |
 | 07 | [sitasi-dan-integritas-akademik](skills/sitasi-dan-integritas-akademik/SKILL.md) | Mengutip, memparafrase secara etis, dan menjaga konsistensi pustaka |
 | 08 | [telaah-kritis-dan-uji-argumen](skills/telaah-kritis-dan-uji-argumen/SKILL.md) | Menguji ketahanan argumen layaknya penelaah sejawat dan sidang |
+| 09 | [struktur-dan-adaptasi-artikel-ilmiah](skills/struktur-dan-adaptasi-artikel-ilmiah/SKILL.md) | Menyusun anatomi artikel jurnal (IMRaD), abstrak, konversi tugas akhir ke jurnal, dan matriks tanggapan reviewer |
+| 10 | [pemformatan-naskah-word-akademik](skills/pemformatan-naskah-word-akademik/SKILL.md) | Mengatur Section Breaks, nomor halaman Romawi/Arab, Heading Styles, Daftar Isi/Gambar/Tabel otomatis, rujukan silang, persamaan OMML, dan audit visual PDF |
+| 11 | [audit-pustaka-dan-manajemen-referensi](skills/audit-pustaka-dan-manajemen-referensi/SKILL.md) | Mengelola berkas referensi (BibTeX, RIS, CSL, Zotero/Mendeley), format APA/IEEE/Harvard/Chicago/Vancouver, dan audit silang 1-banding-1 |
+
+Skill `09` hingga `11` dilengkapi folder `references/` berisi panduan teknis ringkas serta folder `scripts/` berisi skrip bantu Python tanpa dependensi luar (`inspect_docx.py` dan `audit_bib_citations.py`) untuk mengaudit berkas `.docx` dan `.bib` secara langsung.
 
 ## Penanda Standar
 

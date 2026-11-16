@@ -39,3 +39,5 @@ description: Membantu mengutip dan memparafrase sumber secara etis, menjaga kons
 - Memalsukan konteks kutipan atau memanipulasi kalimat sekadar untuk mengelabui alat pemeriksa plagiarisme atau deteksi AI.
 - Melakukan plagiarisme (salin-tempel tanpa sitasi, *patchwriting*, mencuri gagasan, menerjemahkan karya lain tanpa kredit, atau mendaur ulang karya sendiri tanpa izin), serta menulis seluruh naskah atau daftar pustaka untuk diklaim sebagai karya pengguna.
 - Menyimpulkan makna yang lebih jauh atau lebih tegas daripada yang sebenarnya dinyatakan penulis sumber asli.
+
+*(Catatan keterkaitan: untuk manajemen data `.bib`/`.ris`/CSL, perbandingan teknis aturan format APA/IEEE/Harvard/Chicago/Vancouver, dan audit silang 1-banding-1 gunakan skill `audit-pustaka-dan-manajemen-referensi`.)*
